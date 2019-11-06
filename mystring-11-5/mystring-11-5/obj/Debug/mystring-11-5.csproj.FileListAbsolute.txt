@@ -1,0 +1,7 @@
+C:\Users\HuseynYm\source\repos\mystring-11-5\mystring-11-5\bin\Debug\mystring-11-5.exe.config
+C:\Users\HuseynYm\source\repos\mystring-11-5\mystring-11-5\bin\Debug\mystring-11-5.exe
+C:\Users\HuseynYm\source\repos\mystring-11-5\mystring-11-5\bin\Debug\mystring-11-5.pdb
+C:\Users\HuseynYm\source\repos\mystring-11-5\mystring-11-5\obj\Debug\mystring-11-5.csprojAssemblyReference.cache
+C:\Users\HuseynYm\source\repos\mystring-11-5\mystring-11-5\obj\Debug\mystring-11-5.csproj.CoreCompileInputs.cache
+C:\Users\HuseynYm\source\repos\mystring-11-5\mystring-11-5\obj\Debug\mystring-11-5.exe
+C:\Users\HuseynYm\source\repos\mystring-11-5\mystring-11-5\obj\Debug\mystring-11-5.pdb
